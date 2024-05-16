@@ -1,0 +1,89 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+.logokite {
+    display: flex;
+    gap: 10px;
+}
+
+.imglogo {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.navbar-nav .nav-link {
+    margin-left: 20px;
+}
+
+.search-bar {
+    max-width: 400px;
+}
+
+.welcome-codingkite {
+    margin-top: 30px;
+}
+
+.head-para {
+    margin-top: 20px;
+}
+
+.img-container {
+    max-width: 100%;
+    overflow: hidden;
+}
+
+.coding-logo,
+.lab-img {
+    width: 100%;
+    height: auto;
+}
+
+.btn-alignment {
+    margin-top: 20px;
+}
+
+.btn-primary {
+    margin-right: 20px;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+footer {
+    background-color: #343a40;
+    color: #fff;
+}
+
+footer h5 {
+    margin-bottom: 20px;
+}
+
+footer ul li a {
+    color: #bbb;
+    transition: color 0.3s;
+}
+
+footer ul li a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+footer .text-center p {
+    margin-top: 20px;
+    color: #bbb;
+}
+
+li :hover {
+    text-decoration: underline #f59b32 3px; 
+
+}
